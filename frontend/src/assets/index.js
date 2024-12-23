@@ -1,0 +1,1 @@
+export const walletUrl = 'https://cdn.iconscout.com/icon/premium/png-256-thumb/ethereum-wallet-575472.png';

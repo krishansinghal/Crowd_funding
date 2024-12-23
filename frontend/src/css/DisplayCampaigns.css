@@ -1,0 +1,28 @@
+.campaigns {
+   height: 200vh;
+   padding-top: 1%;
+   padding-left: 1%;
+   text-align: center;
+}
+
+.bg-dark {
+   padding: 0px;
+   margin: 0px;
+}
+
+.details {
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-evenly;
+}
+
+.nothing {
+   color: white;
+   margin-top: 20px;
+   font-size: larger;
+}
+
+.loading-component {
+   margin-top: 15%;
+   margin-left: 50%;
+}

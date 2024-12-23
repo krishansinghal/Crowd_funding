@@ -1,0 +1,15 @@
+/* Resetting default styles for html, body, and #root */
+html,
+body,
+#root {
+  width: 100%;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+/* Styling .bg-dark */
+.bg-dark {
+  height: 100vh;
+  padding: 0;
+}
